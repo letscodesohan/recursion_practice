@@ -16,11 +16,11 @@ public class Print1toNBacktracking {
         printTillNBacktracking(n);
     }
 
-    public static void printTillNBacktracking(int n){
-        if(n==0)
+    public static void printTillNBacktracking(int i){
+        if(i==0)
             return;
-        printTillNBacktracking(n-1);
+        printTillNBacktracking(i-1);
         //Backtracking as we are printing after the recursive call.
-        System.out.println(n);
+        System.out.println(i);
     }
 }
