@@ -1,5 +1,5 @@
 # recursion_practice
-all the code of recursion practice session present here
+all the code of recursion practice session present here and should be watched in this order for better revision
  
 Basic Concepts:-
 ----------------
