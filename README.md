@@ -1,6 +1,6 @@
 # recursion_practice
 all the code of recursion practice session present here
-Basic Concepts:-
+# Basic Concepts:-
 ----------------
 1.)Print Name N times
 2.)Print 1 to N
