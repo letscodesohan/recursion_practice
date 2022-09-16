@@ -33,3 +33,8 @@ Advance Concepts:-
 
 1.)Array Subsequences
 
+2.)Array all Subsequences whose sum is K
+
+3.)Array any one subsequences whose sum is K
+
+4.)Count of the subsequences whose sum is K
