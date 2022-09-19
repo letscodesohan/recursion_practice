@@ -38,3 +38,11 @@ Advance Concepts:-
 3.)Array any one subsequences whose sum is K
 
 4.)Count of the subsequences whose sum is K
+
+5.)Combination Sum I
+
+6.)Combination Sum II
+
+7.)Subset Sum I
+
+8.)Subset Sum II
