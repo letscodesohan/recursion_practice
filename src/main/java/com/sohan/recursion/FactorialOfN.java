@@ -2,7 +2,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
-// print factorial of N using functional way
+/*
+ * print factorial of N using functional way
+ */
 public class FactorialOfN {
 
     private static int n;

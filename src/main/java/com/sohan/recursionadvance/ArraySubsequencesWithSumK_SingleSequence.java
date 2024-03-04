@@ -3,7 +3,9 @@ package com.sohan.recursionadvance;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//print any subsequence of the array whose sum is K
+/*
+ * print any subsequence of the array whose sum is K
+ */
 
 public class ArraySubsequencesWithSumK_SingleSequence {
     public static int n;

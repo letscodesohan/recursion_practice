@@ -3,7 +3,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
-//program to print the Nth fibonacci number
+/*
+ * program to print the Nth fibonacci number
+ */
 public class FibonacciNumber {
     private static  int n;
 

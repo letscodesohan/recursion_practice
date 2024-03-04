@@ -1,7 +1,9 @@
 package com.sohan.recursion;
 
 
-// program to print 1 to N Linearly without backtracking
+/*
+ *program to print 1 to N Linearly without backtracking
+ */
 
 import java.util.Scanner;
 

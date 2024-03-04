@@ -2,7 +2,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
-//print from N to 1 linearly
+/*
+ * print from N to 1 linearly
+ */
 public class PrintNto1 {
     public static int n;
     public static void main(String[] args) {

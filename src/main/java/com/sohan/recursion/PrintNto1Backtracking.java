@@ -2,6 +2,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
+/*
+ * print from N to 1 suing backtracking
+ */
 public class PrintNto1Backtracking {
 
     private static  int n;

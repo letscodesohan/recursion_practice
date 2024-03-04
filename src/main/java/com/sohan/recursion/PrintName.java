@@ -3,7 +3,9 @@ package com.sohan.recursion;
 import java.util.Scanner;
 
 
-// program to print name N times
+/*
+ *program to print name N times
+ */
 
 
 public class PrintName {

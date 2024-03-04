@@ -1,7 +1,9 @@
 package com.sohan.recursion;
 import java.util.Scanner;
 
-// print sum of 1 to N
+/*
+ * print sum of 1 to N
+ */
 
 public class SumFrom1toNParameterized {
     private static int n;

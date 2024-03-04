@@ -1,12 +1,13 @@
 package com.sohan.recursion;
 
 
-// print from 1 to N suing backtracking
+/*
+ * print from 1 to N suing backtracking
+ */
 
 import java.util.Scanner;
 
 public class Print1toNBacktracking {
-
     public static int n ;
 
     public static void main(String[] args) {

@@ -4,7 +4,9 @@ package com.sohan.recursionadvance;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//print the subsequences of the given array whose sum is K
+/*
+ * print the subsequences of the given array whose sum is K
+ */
 
 public class ArraySubsequencesWithSumK {
     public static int n;

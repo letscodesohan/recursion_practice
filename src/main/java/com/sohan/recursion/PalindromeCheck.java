@@ -3,7 +3,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
-//program to check if the given string is palindrome or not
+/*
+ * program to check if the given string is palindrome or not
+ */
 public class PalindromeCheck {
     private static String input;
     private static boolean result;

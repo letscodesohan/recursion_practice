@@ -1,9 +1,10 @@
 package com.sohan.recursionadvance;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-//print the count of the subsequences whose sum is K
+/*
+ * print the count of the subsequences whose sum is K
+ */
 public class ArraySubsequenceCountWithSumK {
     public static int n;
     public static int sum =0;

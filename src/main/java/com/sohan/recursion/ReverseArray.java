@@ -2,7 +2,9 @@ package com.sohan.recursion;
 
 import java.util.Scanner;
 
-//program to reverse an array using 1 pointer
+/*
+ * program to reverse an array using 1 pointer
+ */
 public class ReverseArray {
     public static int n;
     public static int temp;
